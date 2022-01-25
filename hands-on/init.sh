@@ -1,0 +1,1 @@
+echo "This is the script to say Hello to $1"
